@@ -13,7 +13,7 @@ crossScalaVersions := Seq("2.10.5", "2.11.6")
 description := "Scalastyle style checker for Scala"
 
 libraryDependencies ++= Seq(
-                        "org.scalariform" %% "scalariform" % "0.1.7",
+                        "org.scalariform" %% "scalariform" % "0.1.8",
                         "com.typesafe" % "config" % "1.2.0",
                         "junit" % "junit" % "4.11" % "test",
                         "com.novocode" % "junit-interface" % "0.10" % "test",
